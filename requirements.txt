@@ -1,4 +1,5 @@
-Flask==2.0.1
-sentence-transformers==2.2.0
-pinecone-client==2.0.0
+Flask
+sentence-transformers
+pinecone-client
 Werkzeug==2.2.2
+numpy
