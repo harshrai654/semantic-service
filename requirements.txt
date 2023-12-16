@@ -1,5 +1,6 @@
 Flask
 sentence-transformers
 pinecone-client
-Werkzeug==2.2.2
+Werkzeug
+gunicorn
 numpy
